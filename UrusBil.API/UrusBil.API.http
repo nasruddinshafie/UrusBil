@@ -1,0 +1,6 @@
+@UrusBil.API_HostAddress = http://localhost:5159
+
+GET {{UrusBil.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
